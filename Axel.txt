@@ -2,5 +2,8 @@ Hola esta es mi actividad en Git:
 
 - Inicializar Repo (Listo)
 - Realizar cambios y confirmaciones (Listo)
-- Ramificación y fusión
+- Ramificación y fusión (En proceso)
 - Gestión de cambios remotos
+
+Axel Jovanny Quintero Trujillo
+
